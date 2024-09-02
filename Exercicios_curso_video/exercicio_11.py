@@ -4,9 +4,6 @@
     cada litro de tinta pinta 2m².
  """
 
-
-
-
 # altura da parede
 altura = float(input("Informe a altura da parede em metros: "))
 
